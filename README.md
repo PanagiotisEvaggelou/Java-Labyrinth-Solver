@@ -13,5 +13,5 @@ A Labyrinth-Solver program made in java, suing custom made stack and queue data 
   Thiseas input.txt
 ```
     
-![Screenshot](img/Screenshot 2024-05-09 010628.png)
-![Screenshot](img/Screenshot 2024-05-09 010753.png)
+![Screenshot](img\Screenshot 2024-05-09 010628.png)
+![Screenshot](img\Screenshot 2024-05-09 010753.png)
