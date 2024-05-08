@@ -5,9 +5,10 @@ A Labyrinth-Solver program made in java, suing custom made stack and queue data 
 
 ## Installation
 
-    1. Download the project directories
-    2. Compile all .java files
-    3. Run Thiseas.java using one of the input.txt files 
+1. Download the project directories
+2. Ensure java and javac is installed
+3. Compile all .java files
+4. Run Thiseas.java using one of the input.txt files 
 
 ```bash
   Thiseas input.txt
