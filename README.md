@@ -16,6 +16,7 @@ A Labyrinth-Solver program made in java, suing custom made stack and queue data 
 ## Screenshots
 
 (with X is marked the path that was tested and failed)
+
 (with * is marked the path that was tested and succeeded)
     
 ![Screenshot](img/Screenshot1.png)
