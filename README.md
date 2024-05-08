@@ -12,6 +12,8 @@ A Labyrinth-Solver program made in java, suing custom made stack and queue data 
 ```bash
   Thiseas input.txt
 ```
+
+## Screenshots
     
 ![Screenshot](img/Screenshot1.png)
 ![Screenshot](img/Screenshot2.png)
