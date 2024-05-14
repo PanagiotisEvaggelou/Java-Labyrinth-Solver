@@ -1,6 +1,6 @@
 # Thiseas
 
-A Labyrinth-Solver program made in java, suing custom made stack and queue data structures 
+A Labyrinth-Solver program made in java, using custom made stack and queue data structures 
 
 
 ## Installation
